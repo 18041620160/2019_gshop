@@ -1,0 +1,3 @@
+[submodule "myComponent"]
+	path = myComponent
+	url = https://github.com/18041620160/myComponent.git
