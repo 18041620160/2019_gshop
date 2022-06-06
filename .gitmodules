@@ -1,3 +1,6 @@
 [submodule "myComponent"]
 	path = myComponent
 	url = https://github.com/18041620160/myComponent.git
+[submodule "src/component"]
+	path = src/component
+	url = https://github.com/18041620160/myComponent.git
