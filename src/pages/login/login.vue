@@ -5,7 +5,7 @@
         <h2 class="login_logo">胡荣磊外卖</h2>
         <div class="login_header_title" style="position: relative;">
           <a href="javascript:;" class="on" style="position: absolute;left:40px;">短信登录</a>
-          <a href="javascript:;" style="position: absolute;left:178px;">D密码登录</a>
+          <a href="javascript:;" style="position: absolute;left:178px;">D密fffzfffff发发发码登录</a>
         </div>
       </div>
       <div class="login_content">
